@@ -1,0 +1,7 @@
+target/
+/.idea
+*.ipr
+*.iws
+*.iml
+.idea
+src/main/resources/application.properties
